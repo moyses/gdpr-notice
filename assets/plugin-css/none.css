@@ -1,0 +1,5 @@
+.cc_banner-wrapper {
+  z-index: 9999;
+  position: relative;
+  display: none;
+}
